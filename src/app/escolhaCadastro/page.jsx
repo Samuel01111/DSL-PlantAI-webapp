@@ -7,7 +7,7 @@ const Escolha = () => {
     <div className="w-full h-screen flex flex-col items-center justify-center space-y-20">
       <div className="w-full max-h-full flex flex-col items-center justify-center">
         <img
-          src="plantai-logo.svg"
+          src="/plantai-logo.svg"
           alt="Planta AI logo"
           className="max-w-full mb-3"
         />
